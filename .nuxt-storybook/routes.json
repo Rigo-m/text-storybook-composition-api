@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/rigo/Projects/test-storybook-composition-api/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_37090042"
+  }
+]
